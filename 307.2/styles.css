@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+
+.paragraph {
+    background-color: lightgreen;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    width: fit-content;
+    border-color: black;
+    border: 3px, dotted;
+}
+
+table {
+    border: 3px, dotted
+}
